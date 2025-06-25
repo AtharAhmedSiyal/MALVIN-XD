@@ -1,8 +1,8 @@
 
 {
-  "name": "MALVIN-XD",
+  "name": "Evil-Hacker",
   "version": "0.0.6",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "A WhatsApp Bot Created By Evil Hacker",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
